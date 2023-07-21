@@ -1,8 +1,36 @@
 {"schema_version":"3.0.0",
-"packages": [],
+"packages": [
+{"name"    	: "Russian + English",
+ "details" 	: "https://github.com/eugenesvk/sublime-dic_RuEn_bi",
+ "labels"  	: ["dictionary","Russian","English","bilingual"],
+ "releases"	: [{"sublime_text":"*", "tags":true }]
+ },
+{"name"    	: "ElasticTabstops",
+ "details" 	: "https://github.com/eugenesvk/ElasticTabstops",
+ "labels"  	: ["tab"],
+ "releases"	: [{"sublime_text":"*", "tags":true }]
+ },
+{"name"    	: "BBCode",
+ "details" 	: "https://github.com/eugenesvk/BBCode",
+ "labels"  	: ["language syntax"],
+ "releases"	: [{"sublime_text":"*", "tags":true }]
+ },
+{"name"   	: "PersistentRegexHighlight",
+ "details"	: "https://github.com/eugenesvk/PersistentRegexHighlight",
+ "releases" : [[{"sublime_text":">=3155","tags":"st3-"},
+                {"sublime_text":"<3155" ,"tags":"st2-"}]]
+ },
+{"name"    	: "Gutter Color",
+ "details" 	: "https://github.com/eugenesvk/GutterColor",
+ "labels"  	: ["tab"],
+ "releases"	: [{"sublime_text":">=3000", "tags":true }]
+ },
+{"name"    	: "NeoVintageous",
+ "details" 	: "https://github.com/eugenesvk/NeoVintageous",
+ "labels"  	: ["vim","vi","vintage","vintageous","emulation","emulator","editor emulation"],
+ "releases"	: [{"sublime_text":">=3000", "tags":true }]
+ }
+],
 "dependencies": [],
-"includes": [
-  "./repository/es.json",
-  "./repository/dependencies.json",
-]
+"includes": []
 }

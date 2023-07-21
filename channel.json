@@ -1,5 +1,5 @@
 {"schema_version":"3.0.0",
 "repositories": [
-  "./repository.json",
+  "https://raw.githubusercontent.com/eugenesvk/Sublime.ext/main/repository.json"
 ]
 }
