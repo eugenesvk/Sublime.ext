@@ -25,6 +25,14 @@
  "labels"  	: ["language syntax"],
  "releases"	: [{"sublime_text":"*", "tags":true }]
  }         	,
+{"name"    	: "AutoHotkey",
+ "details" 	: "https://github.com/eugenesvk/SublimeAutoHotkey",
+ "releases"	: [{"sublime_text":"*", "tags":true }]
+ }         	,
+{"name"    	: "KeyboardNavigation",
+ "details" 	: "https://github.com/eugenesvk/KeyboardNavigation",
+ "releases"	: [{"sublime_text":"*", "tags":true }]
+ }         	,
 {"name"    	: "NeoVintageous",
  "details" 	: "https://github.com/eugenesvk/NeoVintageous",
  "releases"	: [{"sublime_text":">=3000","tags":true }]
