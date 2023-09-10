@@ -33,6 +33,10 @@
  "details" 	: "https://github.com/eugenesvk/KeyboardNavigation",
  "releases"	: [{"sublime_text":"*", "tags":true }]
  }         	,
+{"name"    	: "Terminus",
+ "details" 	: "https://github.com/eugenesvk/Terminus/tree/vendor38",
+ "releases"	: [{"sublime_text":"*", "tags":true }]
+ }         	,
 {"name"    	: "NeoVintageous",
  "details" 	: "https://github.com/eugenesvk/NeoVintageous",
  "releases"	: [{"sublime_text":">=3000","tags":true }]
