@@ -10,6 +10,11 @@
  "labels"  	: ["tab"],
  "releases"	: [{"sublime_text":"*", "tags":true }]
  }         	,
+{"name"    	: "GithubEmoji",
+ "details" 	: "https://github.com/eugenesvk/GithubEmoji",
+ "labels"  	: ["emoji","github","markdown"],
+ "releases"	: [{"sublime_text":"*", "tags":"dev-"}]
+ }         	,
 {"name"    	: "Rust Enhanced",
  "details" 	: "https://github.com/eugenesvk/rust-enhanced",
  "releases"	: [{"sublime_text":">=3000", "tags":true }]
