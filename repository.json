@@ -62,10 +62,6 @@
  "details" 	: "https://github.com/eugenesvk/KeyboardNavigation",
  "releases"	: [{"sublime_text":"*", "tags":true }]
  }         	,
-{"name"    	: "Terminus",
- "details" 	: "https://github.com/eugenesvk/Terminus/tree/vendor38",
- "releases"	: [{"sublime_text":"*", "tags":true }]
- }         	,
 {"name"    	: "WordingStatus","previous_names":["WordCount"],
  "details" 	: "https://github.com/eugenesvk/WordCount",
  "releases"	: [{"sublime_text": "<3000", "tags":"st2-"}
