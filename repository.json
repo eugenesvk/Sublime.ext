@@ -18,7 +18,7 @@
 {"name"    	: "Simplenote",
  "details" 	: "https://github.com/eugenesvk/st-simplenote",
  "labels"  	: ["simplenote","note","markdown","todo","php","html","quote"],
- "releases"	: [{"sublime_text":"<3000" , "tags":"st2-"}
+ "releases"	: [{"sublime_text": "<3000", "tags":"st2-"}
     ,      	   {"sublime_text":">=3000", "tags":"st3-"}
     ,      	   {"sublime_text":">=4000", "tags":"st4-"}]
  }         	,
@@ -33,8 +33,8 @@
  }         	,
 {"name"    	: "PersistentRegexHighlight",
  "details" 	: "https://github.com/eugenesvk/PersistentRegexHighlight",
- "releases"	: [{"sublime_text":">=3155","tags":"st3-"},
-               {"sublime_text":"<3155" ,"tags":"st2-"}]
+ "releases"	: [{"sublime_text":">=3155","tags":"st3-"}
+    ,      	   {"sublime_text": "<3155","tags":"st2-"}]
  }         	,
 {"name"    	: "BBCode",
  "details" 	: "https://github.com/eugenesvk/BBCode",
