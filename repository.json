@@ -53,6 +53,12 @@
  "details" 	: "https://github.com/eugenesvk/Terminus/tree/vendor38",
  "releases"	: [{"sublime_text":"*", "tags":true }]
  }         	,
+{"name"    	: "WordingStatus","previous_names":["WordCount"],
+ "details" 	: "https://github.com/eugenesvk/WordCount",
+ "releases"	: [{"sublime_text": "<3000", "tags":"st2-"}
+    ,      	   {"sublime_text":">=3000", "tags":"st3-"}
+    ,      	   {"sublime_text":">=4170", "tags":"st4170-"}]
+ }         	,
 {"name"    	: "NeoVintageous",
  "details" 	: "https://github.com/eugenesvk/NeoVintageous",
  "releases"	: [{"sublime_text":">=3000","tags":true }]
