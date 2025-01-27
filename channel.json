@@ -1,4 +1,4 @@
-{"schema_version":"3.0.0",
+{"$schema":"sublime://packagecontrol.io/schemas/channel","schema_version":"4.0.0",
 "repositories": [
   "https://raw.githubusercontent.com/eugenesvk/Sublime.ext/main/repository.json"
 ]
