@@ -1,4 +1,4 @@
-{"schema_version":"3.0.0",
+{"$schema":"sublime://packagecontrol.io/schemas/repository","schema_version":"4.0.0",
 "packages": [
 {"name"    	: "Russian + English",
  "details" 	: "https://github.com/eugenesvk/sublime-dicRuEnbi",
@@ -84,6 +84,6 @@
  "releases"	: [{"sublime_text":">=3000","tags":true }]
  }
 ],
-"dependencies": [],
+"libraries": [],
 "includes": []
 }
