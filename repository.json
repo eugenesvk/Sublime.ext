@@ -84,11 +84,6 @@
  "releases"	: [{"sublime_text":">=3000","tags":true }]
  }
 ],
-"libraries": [
-{"name"  	:"shellenv","description":"Access a user's environmental variables as defined in their shell",
- "issues"	:"https://github.com/codexns/shellenv/issues","author":"wbond",
- "releases": [{"base":"https://github.com/codexns/shellenv","python_versions":["3.3","3.8"],"tags":true}]
- }
-],
+"libraries": [],
 "includes": []
 }
