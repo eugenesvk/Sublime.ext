@@ -82,6 +82,14 @@
 {"name"    	: "NeoVintageous",
  "details" 	: "https://github.com/eugenesvk/NeoVintageous",
  "releases"	: [{"sublime_text":">=3000","tags":true }]
+ }         	,
+{"name"    	: "OverrideAudit",
+ "details" 	: "https://github.com/eugenesvk/OverrideAudit",
+ "readme"  	: "https://raw.githubusercontent.com/eugenesvk/OverrideAudit/refs/heads/master/README.md",
+ "homepage"	: "https://overrideaudit.odatnurd.net/",
+ "labels"  	: ["diff","compare","resource","package development"],
+ "releases"	: [{"sublime_text":">=4126","tags":true},
+  {"sublime_text":"3197 - 4125","tags":"st3-v"},{"sublime_text":"3092 - 3196","tags":"legacy-v"}]
  }
 ],
 "libraries": [],
