@@ -107,6 +107,15 @@
  "releases"	:[{"sublime_text": "<3189","version":"1.3.8","url":"https://codeload.github.com/randy3k/AutomaticPackageReloader/zip/v1.3.8","date":"2019-11-15 00:00:00"}
     ,      	  {"sublime_text":">=3189","tags": true}]
  }         	,
+{"name"    	:"AutoSetSyntax",
+ "details" 	:"https://github.com/eugenesvk/ST-AutoSetSyntax",
+ "homepage"	:"https://github.com/jfcherng-sublime/ST-AutoSetSyntax",
+ "readme":"https://raw.githubusercontent.com/jfcherng-sublime/ST-AutoSetSyntax/stable/README.md",
+ "author": ["jfcherng"],
+ "releases"	:[{"sublime_text":">=4114","tags":"4114-"}
+    ,      	  {"sublime_text":">=4105","tags":"4105-"}
+    ,      	  {"sublime_text":">=3084","tags":"3084-"}]
+ }         	,
  }
 ],
 "libraries": [],
