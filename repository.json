@@ -120,6 +120,10 @@
  "details" 	:"https://github.com/eugenesvk/ayu",
  "labels"  	:["theme","color scheme"],
  "releases"	:[{"sublime_text":"*","tags": true}]
+ },
+{"name"    	:"ColorHints",
+ "details" 	:"https://github.com/eugenesvk/ColorHints",
+ "releases"	:[{"sublime_text":">=3200","tags":true}]
  }
 ],
 "libraries": [],
