@@ -97,6 +97,11 @@
  "releases"	:[{"sublime_text": "<3000","tags":"st2-"}
    ,       	  {"sublime_text":">=3000","tags":"st3-"}]
  }         	,
+{"name"    	:"AppleScript Extensions",
+ "details" 	:"https://github.com/eugenesvk/sublime-applescript",
+ "labels"  	: ["auto-complete","buildsystem","snippets"],
+ "releases"	:[{"sublime_text":"*","tags": true}]
+ }         	,
  }
 ],
 "libraries": [],
