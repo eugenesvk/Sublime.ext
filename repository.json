@@ -116,6 +116,10 @@
     ,      	  {"sublime_text":">=4105","tags":"4105-"}
     ,      	  {"sublime_text":">=3084","tags":"3084-"}]
  }         	,
+{"name"    	:"ayu",
+ "details" 	:"https://github.com/eugenesvk/ayu",
+ "labels"  	:["theme","color scheme"],
+ "releases"	:[{"sublime_text":"*","tags": true}]
  }
 ],
 "libraries": [],
