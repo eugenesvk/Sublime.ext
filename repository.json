@@ -124,6 +124,12 @@
 {"name"    	:"ColorHints",
  "details" 	:"https://github.com/eugenesvk/ColorHints",
  "releases"	:[{"sublime_text":">=3200","tags":true}]
+ },
+{"name"    	:"SideBarEnhancements",
+ "details" 	:"https://github.com/eugenesvk/SideBarEnhancements",
+ "readme"  	:"https://raw.githubusercontent.com/eugenesvk/SideBarEnhancements/refs/heads/st3/readme.md",
+ "labels"  	:["sidebar","folder","directory","file","clipboard"],
+ "releases"	: [{"sublime_text":">=3000","tags":true}]
  }
 ],
 "libraries": [],
