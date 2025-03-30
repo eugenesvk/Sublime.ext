@@ -1,112 +1,93 @@
 {"$schema":"sublime://packagecontrol.io/schemas/repository","schema_version":"4.0.0",
-"packages": [
-{"name"    	: "Russian + English",
- "details" 	: "https://github.com/eugenesvk/sublime-dicRuEnbi",
- "labels"  	: ["dictionary","Russian","English","bilingual"],
- "releases"	: [{"sublime_text":"*", "tags":true }]
- }         	,
-{"name"    	: "AceJump",
- "details" 	: "https://github.com/eugenesvk/ace-jump-sublime",
- "labels"  	: ["code navigation", "text navigation"],
- "releases"	: [{"sublime_text":">=3000", "tags":"st3-"}
-    ,      	   {"sublime_text":">=4107", "tags":"st4107-"}]
- }         	,
-{"name"    	: "AppendSelection",
- "details" 	: "https://github.com/eugenesvk/sublime-append-selection",
- "labels"  	: ["sublime-enhanced", "cursors manipulation"],
- "releases"	: [{"sublime_text": "<3000", "tags":"st2-"}
-    ,      	   {"sublime_text":">=3000", "tags":"st3-"}
-    ,      	   {"sublime_text":">=4000", "tags":"st4-"}]
- }         	,
-{"name"    	: "ElasticTabstops",
- "details" 	: "https://github.com/eugenesvk/ElasticTabstops",
- "labels"  	: ["tab"],
- "releases"	: [{"sublime_text":"*", "tags":true }]
- }         	,
-{"name"    	: "GithubEmoji",
- "details" 	: "https://github.com/eugenesvk/GithubEmoji",
- "labels"  	: ["emoji","github","markdown"],
- "releases"	: [{"sublime_text":"*", "tags":"dev-"}]
- }         	,
-{"name"    	: "Simplenote",
- "details" 	: "https://github.com/eugenesvk/st-simplenote",
- "labels"  	: ["simplenote","note","markdown","todo","php","html","quote"],
- "releases"	: [{"sublime_text": "<3000", "tags":"st2-"}
-    ,      	   {"sublime_text":">=3000", "tags":"st3-"}
-    ,      	   {"sublime_text":">=4000", "tags":"st4-"}]
- }         	,
-{"name"    	: "Rust Enhanced",
- "details" 	: "https://github.com/eugenesvk/rust-enhanced",
- "releases"	: [{"sublime_text":">=3000", "tags":true }]
- }         	,
-{"name"    	: "Gutter Color",
- "details" 	: "https://github.com/eugenesvk/GutterColor",
- "labels"  	: ["tab"],
- "releases"	: [{"sublime_text":">=3000", "tags":true }]
- }         	,
-{"name"    	: "PersistentRegexHighlight",
- "details" 	: "https://github.com/eugenesvk/PersistentRegexHighlight",
- "releases"	: [{"sublime_text":">=3155","tags":"st3-"}
-    ,      	   {"sublime_text": "<3155","tags":"st2-"}]
- }         	,
-{"name"    	: "BBCode",
- "details" 	: "https://github.com/eugenesvk/BBCode",
- "labels"  	: ["language syntax"],
- "releases"	: [{"sublime_text":"*", "tags":true }]
- }         	,
-{"name"    	: "AutoHotkey",
- "details" 	: "https://github.com/eugenesvk/SublimeAutoHotkey",
- "releases"	: [{"sublime_text":"*", "tags":true }]
- }         	,
-{"name"    	: "KeyboardNavigation",
- "details" 	: "https://github.com/eugenesvk/KeyboardNavigation",
- "releases"	: [{"sublime_text":"*", "tags":true }]
- }         	,
-{"name"    	: "WordingStatus","previous_names":["WordCount"],
- "details" 	: "https://github.com/eugenesvk/WordCount",
- "releases"	: [{"sublime_text": "<3000", "tags":"st2-"}
-    ,      	   {"sublime_text":">=3000", "tags":"st3-"}
-    ,      	   {"sublime_text":">=4170", "tags":"st4170-"}]
- }         	,
-{"name"    	: "LSP",
- "details" 	: "https://github.com/eugenesvk/LSP",
- "releases"	: [{"sublime_text":"3154 - 4069","tags":"3154-"}
-    ,      	   {"sublime_text":">=4070"     ,"tags":"4070-"}]
- }         	,
-{"name"    	: "NodeJS",
- "details" 	: "https://github.com/eugenesvk/SublimeText-Nodejs",
- "labels"  	: ["auto-complete","snippets","buildsystem","npm","node","javascript","commands"],
- "author"  	: ["tanepiper","varp"],
- "releases"	: [{"sublime_text":">=3000","tags":true}]
- }         	,
-{"name"    	: "NeoVintageous",
- "details" 	: "https://github.com/eugenesvk/NeoVintageous",
- "releases"	: [{"sublime_text":">=3000","tags":true }]
- }         	,
-{"name"    	: "OverrideAudit",
- "details" 	: "https://github.com/eugenesvk/OverrideAudit",
- "readme"  	: "https://raw.githubusercontent.com/eugenesvk/OverrideAudit/refs/heads/master/README.md",
- "homepage"	: "https://overrideaudit.odatnurd.net/",
- "labels"  	: ["diff","compare","resource","package development"],
- "releases"	: [{"sublime_text":">=4126","tags":true},
-  {"sublime_text":"3197 - 4125","tags":"st3-v"},{"sublime_text":"3092 - 3196","tags":"legacy-v"}]
- }         	,
+"packages":[
+{"name"    	:"Russian + English",
+ "details" 	:"https://github.com/eugenesvk/sublime-dicRuEnbi",
+ "labels"  	:["dictionary","Russian","English","bilingual"],
+ "releases"	:[{"sublime_text":"*", "tags":true }]  },
+{"name"    	:"AceJump",
+ "details" 	:"https://github.com/eugenesvk/ace-jump-sublime",
+ "labels"  	:["code navigation", "text navigation"],
+ "releases"	:[{"sublime_text":">=3000", "tags":"st3-"}
+    ,      	  {"sublime_text":">=4107", "tags":"st4107-"}]  },
+{"name"    	:"AppendSelection",
+ "details" 	:"https://github.com/eugenesvk/sublime-append-selection",
+ "labels"  	:["sublime-enhanced", "cursors manipulation"],
+ "releases"	:[{"sublime_text": "<3000", "tags":"st2-"}
+    ,      	  {"sublime_text":">=3000", "tags":"st3-"}
+    ,      	  {"sublime_text":">=4000", "tags":"st4-"}]  },
+{"name"    	:"ElasticTabstops",
+ "details" 	:"https://github.com/eugenesvk/ElasticTabstops",
+ "labels"  	:["tab"],
+ "releases"	:[{"sublime_text":"*", "tags":true }]  },
+{"name"    	:"GithubEmoji",
+ "details" 	:"https://github.com/eugenesvk/GithubEmoji",
+ "labels"  	:["emoji","github","markdown"],
+ "releases"	:[{"sublime_text":"*", "tags":"dev-"}]  },
+{"name"    	:"Simplenote",
+ "details" 	:"https://github.com/eugenesvk/st-simplenote",
+ "labels"  	:["simplenote","note","markdown","todo","php","html","quote"],
+ "releases"	:[{"sublime_text": "<3000", "tags":"st2-"}
+    ,      	  {"sublime_text":">=3000", "tags":"st3-"}
+    ,      	  {"sublime_text":">=4000", "tags":"st4-"}]  },
+{"name"    	:"Rust Enhanced",
+ "details" 	:"https://github.com/eugenesvk/rust-enhanced",
+ "releases"	:[{"sublime_text":">=3000", "tags":true }]  },
+{"name"    	:"Gutter Color",
+ "details" 	:"https://github.com/eugenesvk/GutterColor",
+ "labels"  	:["tab"],
+ "releases"	:[{"sublime_text":">=3000", "tags":true }]  },
+{"name"    	:"PersistentRegexHighlight",
+ "details" 	:"https://github.com/eugenesvk/PersistentRegexHighlight",
+ "releases"	:[{"sublime_text":">=3155","tags":"st3-"}
+    ,      	  {"sublime_text": "<3155","tags":"st2-"}]  },
+{"name"    	:"BBCode",
+ "details" 	:"https://github.com/eugenesvk/BBCode",
+ "labels"  	:["language syntax"],
+ "releases"	:[{"sublime_text":"*", "tags":true }]  },
+{"name"    	:"AutoHotkey",
+ "details" 	:"https://github.com/eugenesvk/SublimeAutoHotkey",
+ "releases"	:[{"sublime_text":"*", "tags":true }]  },
+{"name"    	:"KeyboardNavigation",
+ "details" 	:"https://github.com/eugenesvk/KeyboardNavigation",
+ "releases"	:[{"sublime_text":"*", "tags":true }]  },
+{"name"    	:"WordingStatus",
+ "details" 	:"https://github.com/eugenesvk/WordCount",
+ "releases"	:[{"sublime_text": "<3000", "tags":"st2-"}
+    ,      	  {"sublime_text":">=3000", "tags":"st3-"}
+    ,      	  {"sublime_text":">=4170", "tags":"st4170-"}]  },
+{"name"    	:"LSP",
+ "details" 	:"https://github.com/eugenesvk/LSP",
+ "releases"	:[{"sublime_text":"3154 - 4069","tags":"3154-"}
+    ,      	  {"sublime_text":">=4070"     ,"tags":"4070-"}]  },
+{"name"    	:"NodeJS",
+ "details" 	:"https://github.com/eugenesvk/SublimeText-Nodejs",
+ "labels"  	:["auto-complete","snippets","buildsystem","npm","node","javascript","commands"],
+ "author"  	:["tanepiper","varp"],
+ "releases"	:[{"sublime_text":">=3000","tags":true}]  },
+{"name"    	:"NeoVintageous",
+ "details" 	:"https://github.com/eugenesvk/NeoVintageous",
+ "releases"	:[{"sublime_text":">=3000","tags":true }]  },
+{"name"    	:"OverrideAudit",
+ "details" 	:"https://github.com/eugenesvk/OverrideAudit",
+ "readme"  	:"https://raw.githubusercontent.com/eugenesvk/OverrideAudit/refs/heads/master/README.md",
+ "homepage"	:"https://overrideaudit.odatnurd.net/",
+ "labels"  	:["diff","compare","resource","package development"],
+ "releases"	:[{"sublime_text":">=4126","tags":true}
+    ,      	  {"sublime_text":"3197 - 4125","tags":"st3-v"}
+    ,      	  {"sublime_text":"3092 - 3196","tags":"legacy-v"}]  },
 {"name"    	:"AlignTab",
  "details" 	:"https://github.com/eugenesvk/AlignTab",
  "author"  	:"randy3k",
  "releases"	:[{"sublime_text": "<3000","tags":"st2-"}
-   ,       	  {"sublime_text":">=3000","tags":"st3-"}]
- }         	,
+   ,       	  {"sublime_text":">=3000","tags":"st3-"}]  },
 {"name"    	:"AppleScript Extensions",
  "details" 	:"https://github.com/eugenesvk/sublime-applescript",
  "labels"  	: ["auto-complete","buildsystem","snippets"],
- "releases"	:[{"sublime_text":"*","tags": true}]
- }         	,
+ "releases"	:[{"sublime_text":"*","tags":true}]  },
 {"name"    	:"AutomaticPackageReloader",
  "details" 	:"https://github.com/eugenesvk/AutomaticPackageReloader",
  "releases"	:[{"sublime_text": "<3189","version":"1.3.8","url":"https://codeload.github.com/randy3k/AutomaticPackageReloader/zip/v1.3.8","date":"2019-11-15 00:00:00"}
-    ,      	  {"sublime_text":">=3189","tags": true}]
- }         	,
+    ,      	  {"sublime_text":">=3189","tags":true}]  },
 {"name"    	:"AutoSetSyntax",
  "details" 	:"https://github.com/eugenesvk/ST-AutoSetSyntax",
  "homepage"	:"https://github.com/jfcherng-sublime/ST-AutoSetSyntax",
@@ -114,23 +95,19 @@
  "author"  	: ["jfcherng"],
  "releases"	:[{"sublime_text":">=4114","tags":"4114-"}
     ,      	  {"sublime_text":">=4105","tags":"4105-"}
-    ,      	  {"sublime_text":">=3084","tags":"3084-"}]
- }         	,
+    ,      	  {"sublime_text":">=3084","tags":"3084-"}]  },
 {"name"    	:"ayu",
  "details" 	:"https://github.com/eugenesvk/ayu",
  "labels"  	:["theme","color scheme"],
- "releases"	:[{"sublime_text":"*","tags": true}]
- },
+ "releases"	:[{"sublime_text":"*","tags":true}]  },
 {"name"    	:"ColorHints",
  "details" 	:"https://github.com/eugenesvk/ColorHints",
- "releases"	:[{"sublime_text":">=3200","tags":true}]
- },
+ "releases"	:[{"sublime_text":">=3200","tags":true}]  },
 {"name"    	:"SideBarEnhancements",
  "details" 	:"https://github.com/eugenesvk/SideBarEnhancements",
  "readme"  	:"https://raw.githubusercontent.com/eugenesvk/SideBarEnhancements/refs/heads/st3/readme.md",
  "labels"  	:["sidebar","folder","directory","file","clipboard"],
- "releases"	: [{"sublime_text":">=3000","tags":true}]
- }
+ "releases"	:[{"sublime_text":">=3000","tags":true}]  },
 ],
 "libraries": [],
 "includes": []
