@@ -157,6 +157,26 @@
 {"details" 	:"https://github.com/eugenesvk/MoveTab",
  "releases"	:[{"sublime_text":">=4000","tags":true
 }  ,       	  {"sublime_text":"<4000","tags":"st3-v"}]},
+{"details" 	:"https://github.com/eugenesvk/RegReplace",
+ "releases"	:[{"sublime_text":">=3000","tags":"st3-"}]},
+{"name"    	:"MultiEditUtils",
+ "details" 	:"https://github.com/eugenesvk/Sublime-MultiEditUtils",
+ "labels"  	:["text manipulation","code navigation","text selection"],
+ "releases"	:[{"sublime_text":"*","tags":true}]},
+{"name"    	:"NeoVintageousToggle",
+ "details" 	:"https://github.com/eugenesvk/NeoVintageousToggle",
+ "labels"  	:["vim","neovintageous","vintageous","vintage"],
+ "releases"	:[{"sublime_text":">=3000","tags":true}]},
+{"name"    	:"PackageResourceViewer",
+ "details" 	:"https://github.com/eugenesvk/PackageResourceViewer",
+ "releases"	:[{"sublime_text":">=3000","tags":"st3-"}
+   ,       	  {"sublime_text":"<3000","tags":"st2-"}]},
+{"details" 	:"https://github.com/eugenesvk/ScopeHunter",
+ "releases"	:[{"sublime_text":">=3000","tags":"st3-"}]},
+{"name"    	:"SyncedSideBar",
+ "details" 	:"https://github.com/eugenesvk/SyncedSideBar",
+ "releases"	:[{"sublime_text":"<4050","tags":"st3-"}
+   ,       	  {"sublime_text":">=4050","tags":true}]},
 ],
 "libraries": [],
 "includes": []
