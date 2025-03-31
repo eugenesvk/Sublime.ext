@@ -142,9 +142,6 @@
 {"details" 	:"https://github.com/eugenesvk/GitGutter",
  "releases"	:[{"sublime_text":"<3176","tags":"st2-"}
    ,       	  {"sublime_text":">=3176","tags":true}]},
-{"name"    	:"FT Origami",
- "details" 	:"https://github.com/eugenesvk/FTOrigamiSublimeText",
- "releases"	:[{"sublime_text":"*","tags":true}]},
 {"name"    	:"Sync View Scroll",
  "details" 	:"https://github.com/eugenesvk/syncViewScroll",
  "releases"	:[{"sublime_text":"*","tags":true}]},
