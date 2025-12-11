@@ -158,7 +158,8 @@
  "releases"	:[{"sublime_text":">=4000","tags":true
 }  ,       	  {"sublime_text": "<4000","tags":"st3-v"}]},
 {"details" 	:"https://github.com/eugenesvk/RegReplace",
- "releases"	:[{"sublime_text":">=3000","tags":"st3-"}]},
+ "releases"	:[{"sublime_text":"3000 - 4200","tags":"st3-"}
+   ,       	  {"sublime_text":     ">=4201","tags":"st4-"}]},
 {"name"    	:"MultiEditUtils",
  "details" 	:"https://github.com/eugenesvk/Sublime-MultiEditUtils",
  "labels"  	:["text manipulation","code navigation","text selection"],
