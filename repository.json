@@ -127,7 +127,9 @@
  "details" 	:"https://github.com/eugenesvk/Hex-to-HSL-Color",
  "releases"	:[{"sublime_text":"*","branch":"master"}]},
 {"details" 	:"https://github.com/eugenesvk/ColorHelper",
- "releases"	:[{"sublime_text":">=3170","tags":"st3-"}]},
+ "releases"	:[{"sublime_text":"3170 - 3999","tags": "st3a-"}
+  ,        	  {"sublime_text":"4000 - 4200","tags": "st3-"}
+  ,        	  {"sublime_text":     ">=4201","tags": "st4-"}]},
 {"name"    	:"DashDoc","description":"Open the selected text or text under cursor in Dash documentation browser",
  "details" 	:"https://github.com/eugenesvk/DashDoc",
  "releases"	:[{"sublime_text":"*", "platforms":["osx","windows","linux"],"tags":true}]  },
