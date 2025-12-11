@@ -115,7 +115,8 @@
  "labels"  	:["theme"],
  "releases"	:[{"sublime_text":"*","tags":true}]  },
 {"details" 	:"https://github.com/eugenesvk/BracketHighlighter",
- "releases"	:[{"sublime_text":">=3000","tags":"st3-"}]},
+ "releases"	:[{"sublime_text":"3000 - 4200","tags":"st3-"}
+   ,       	  {"sublime_text":     ">=4201","tags":"st4-"}]},
 {"name"    	:"CodeFormatter",
  "details" 	:"https://github.com/eugenesvk/sublimetext-codeformatter",
  "labels"  	:["formatting","utilities","php","css","javascript","html","python","automation","indent"],
