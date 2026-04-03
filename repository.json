@@ -175,8 +175,9 @@
  "releases"	:[{"sublime_text":">=3000","tags":true}]},
 {"name"    	:"PackageResourceViewer",
  "details" 	:"https://github.com/eugenesvk/PackageResourceViewer",
- "releases"	:[{"sublime_text":">=3000","tags":"st3-"}
-   ,       	  {"sublime_text": "<3000","tags":"st2-"}]},
+ "releases"	:[{"sublime_text":      ">=4000","tags":true}
+   ,       	  {"sublime_text": "3000 - 3999","tags":"st3-"}
+   ,       	  {"sublime_text":"<3000"       ,"tags":"st2-"}]},
 {"details" 	:"https://github.com/eugenesvk/ScopeHunter",
  "releases"	:[{"sublime_text":"3000 - 4200","tags":"st3-"}
    ,       	  {"sublime_text":     ">=4201","tags":"st4-"}]},
