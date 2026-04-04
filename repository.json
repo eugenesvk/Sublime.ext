@@ -83,8 +83,9 @@
 {"name"    	:"AlignTab",
  "details" 	:"https://github.com/eugenesvk/AlignTab",
  "author"  	:"randy3k",
- "releases"	:[{"sublime_text": "<3000","tags":"st2-"}
-   ,       	  {"sublime_text":">=3000","tags":"st3-"}]  },
+ "releases"	:[{"sublime_text":">=4000","tags":"st4-"}
+   ,       	  {"sublime_text":">=3000","tags":"st3-"}
+   ,       	  {"sublime_text": "<3000","tags":"st2-"}]  },
 {"name"    	:"AppleScript Extensions",
  "details" 	:"https://github.com/eugenesvk/sublime-applescript",
  "labels"  	: ["auto-complete","buildsystem","snippets"],
