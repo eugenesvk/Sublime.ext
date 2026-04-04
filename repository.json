@@ -218,7 +218,8 @@
    ,       	  {"sublime_text":      ">=4050","tags":true}]},
 {"name"    	:"REG",
  "details" 	:"https://github.com/eugenesvk/REG",
- "releases"	:[{"sublime_text":"*","platforms":["windows"],"tags":true}]},
+ "releases"	:[{"sublime_text":">=4000","platforms":["windows"],"tags":"st4-"}
+   ,       	  {"sublime_text": "<4000","platforms":["windows"],"tags":true  }]},
 {"name"    	:"Stylus Clean Completions",
  "details" 	:"https://github.com/eugenesvk/stylus-clean-completions",
  "releases"	:[{"sublime_text":">=3000","tags":true}]},
