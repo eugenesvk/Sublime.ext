@@ -293,9 +293,10 @@
  "releases"	:[{"sublime_text":     ">=4148","tags":"4148-"}
  ,         	  {"sublime_text":"4075 - 4147","tags":"4075-"}]},
 {"name"    	:"GraphQL",
- "details" 	:"https://github.com/eugenesvk/just_sublime",
+ "details" 	:"https://github.com/eugenesvk/GraphQL-SublimeText3",
+ "labels"  	:["language syntax"],
  "releases"	:[{"sublime_text":">=3092","tags":true}
-   ,       	  {"sublime_text": "<3092","base":"https://github.com/dncrews/GraphQL-SublimeText2","tags":true}]},
+   ,       	  {"sublime_text": "<3092","base":"https://github.com/eugenesvk/GraphQL-SublimeText2","tags":true}]},
 {"name"    	:"fish",
  "details" 	:"https://github.com/eugenesvk/sublime-fish",
  "labels"  	:["language syntax","snippets"],
