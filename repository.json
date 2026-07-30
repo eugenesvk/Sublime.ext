@@ -62,8 +62,10 @@
     ,      	  {"sublime_text":">=4170", "tags":"st4170-"}]  },
 {"name"    	:"LSP",
  "details" 	:"https://github.com/eugenesvk/LSP",
- "releases"	:[{"sublime_text":"3154 - 4069","tags":"3154-"}
-    ,      	  {"sublime_text":">=4070"     ,"tags":"4070-"}]  },
+ "homepage"	:"https://github.com/eugenesvk/LSP",
+ "labels"  	:["lsp","intellisense","auto-complete","linting","formatting","code navigation"],
+ "releases"	:[{"sublime_text":"3154 - 3999","tags":"3154-"}
+    ,      	  {"sublime_text":">=4132"     ,"tags":"4070-"}]  },
 {"name"    	:"NodeJS",
  "details" 	:"https://github.com/eugenesvk/SublimeText-Nodejs",
  "labels"  	:["auto-complete","snippets","buildsystem","npm","node","javascript","commands"],
