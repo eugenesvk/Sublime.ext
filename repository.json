@@ -374,6 +374,14 @@
  "releases"	:[{"sublime_text":"*","tags":true}]
  }
 ],
-"libraries": [],
+"libraries":[
+{"name"    	:"debugtools","description":"Alternate simplified logging support and general utilities functions",
+ "author"  	:"evandrocoan",
+ "issues"  	:"https://github.com/eugenesvk/debugtools/issues",
+ "releases"	:[{"base":"https://github.com/eugenesvk/debugtools"
+   ,       	   "python_versions":["3.3","3.8","3.13"],"tags":true }
+   ,       	  {"base":"https://github.com/eugenesvk/debugtools"
+   ,       	   "python_versions":["3.14"            ],"tags":"py314-"}] }
+],
 "includes": []
 }
