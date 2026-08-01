@@ -384,6 +384,15 @@
    ,       	   "python_versions":["3.3","3.8","3.13"],"tags":true }
    ,       	  {"base":"https://github.com/eugenesvk/debugtools"
    ,       	   "python_versions":["3.14"            ],"tags":"py314-"}] }
+
+{"name"    	:"lsp_utils","description":"Module with LSP-related utilities",
+ "author"  	:"rchl",
+ "issues"  	:"https://github.com/eugenesvk/lsp_utils/issues",
+ "releases"	:[{"base":"https://github.com/eugenesvk/lsp_utils"
+   ,       	   "python_versions":["3.3","3.8"              ],"sublime_text":"3154 - 4069","tags":"st3-v"}
+   ,       	  {"base":"https://github.com/eugenesvk/lsp_utils"
+   ,       	   "asset":"lsp_utils-*-py3-none-any.whl"
+   ,       	   "python_versions":[      "3.8","3.13","3.14"],"sublime_text":">=4070"                    }] }
 ],
 "includes": []
 }
