@@ -391,7 +391,12 @@
    ,       	   "python_versions":["3.3","3.8"              ],"sublime_text":"3154 - 4069","tags":"st3-v"}
    ,       	  {"base":"https://github.com/eugenesvk/lsp_utils"
    ,       	   "asset":"lsp_utils-*-py3-none-any.whl"
-   ,       	   "python_versions":[      "3.8","3.13","3.14"],"sublime_text":">=4070"                    }] }
+   ,       	   "python_versions":[      "3.8","3.13","3.14"],"sublime_text":">=4070"                    }] },
+{"name"    	:"shellenv","description":"Access a user's environmental variables as defined in their shell",
+ "author"  	:"wbond",
+ "issues"  	:"https://github.com/codexns/shellenv/issues",
+ "releases"	:[{"base":"https://github.com/codexns/shellenv"
+   ,       	   "python_versions":["3.3","3.8","3.14"],"tags":true} ] }
 ],
 "includes": []
 }
