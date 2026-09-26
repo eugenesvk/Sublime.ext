@@ -252,7 +252,8 @@
 {"name"    	:"Debugger",
  "details" 	:"https://github.com/eugenesvk/SublimeDebugger",
  "labels"  	:["lldb","gdb","javascript","node","pyton","php","ruby","go","lua","elixir"],
- "releases"	:[{"sublime_text":">=4000","tags":true}]},
+ "releases"	:[{"sublime_text": "4000 - 4198","tags":"st4-" }
+   ,       	  {"sublime_text":      ">=4199","tags":"st42-"}]},
 {"name"    	:"LiveReload",
  "details" 	:"https://github.com/eugenesvk/LiveReload-sublimetext3",
  "releases"	:[{"sublime_text":">=3000","tags":true}]},
