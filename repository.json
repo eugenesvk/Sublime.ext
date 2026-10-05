@@ -260,7 +260,8 @@
 {"name"    	:"BinaryPlist",
  "details" 	:"https://github.com/eugenesvk/st3-binaryplist",
  "labels"  	:["language syntax"],
- "releases"	:[{"sublime_text":">=3000","tags":true}]},
+ "releases"	:[{"sublime_text":"3000 - 4205","tags":true}
+   ,       	  {"sublime_text":     ">=4205","tags":"4205-"}]},
 {"name"    	:"Dotfiles Syntax Highlighting",
  "details" 	:"https://github.com/eugenesvk/dotfiles-syntax-highlighting-st2",
  "labels"  	:["language syntax"],
