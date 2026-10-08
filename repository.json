@@ -186,6 +186,11 @@
  "releases"	:[{"sublime_text":      ">=4000","tags":true}
    ,       	  {"sublime_text": "3000 - 3999","tags":"st3-"}
    ,       	  {"sublime_text":"<3000"       ,"tags":"st2-"}]},
+{"name"    	:"RawLineEdit",
+ "details" 	:"https://github.com/eugenesvk/RawLineEdit",
+ "releases"	:[{"sublime_text":      ">=4205","tags":"st4205-"}
+   ,       	  {"sublime_text": "4201 - 4204","tags":"st4-"}
+   ,       	  {"sublime_text": "3000 - 4200","tags":"st3-"}]},
 {"details" 	:"https://github.com/eugenesvk/ScopeHunter",
  "releases"	:[{"sublime_text":"3000 - 4200","tags":"st3-"}
    ,       	  {"sublime_text":     ">=4201","tags":"st4-"}]},
